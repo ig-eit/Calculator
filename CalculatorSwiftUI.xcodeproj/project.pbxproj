@@ -11,6 +11,7 @@
 		0E60B5DA2977325000FBE7D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E60B5D92977325000FBE7D3 /* ContentView.swift */; };
 		0E60B5DC2977325200FBE7D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E60B5DB2977325200FBE7D3 /* Assets.xcassets */; };
 		0E60B5DF2977325200FBE7D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E60B5DE2977325200FBE7D3 /* Preview Assets.xcassets */; };
+		0E60B5E62977337B00FBE7D3 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E60B5E52977337B00FBE7D3 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0E60B5D92977325000FBE7D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0E60B5DB2977325200FBE7D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E60B5DE2977325200FBE7D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0E60B5E52977337B00FBE7D3 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0E60B5D72977325000FBE7D3 /* CalculatorSwiftUIApp.swift */,
 				0E60B5D92977325000FBE7D3 /* ContentView.swift */,
+				0E60B5E52977337B00FBE7D3 /* CalculatorBrain.swift */,
 				0E60B5DB2977325200FBE7D3 /* Assets.xcassets */,
 				0E60B5DD2977325200FBE7D3 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E60B5E62977337B00FBE7D3 /* CalculatorBrain.swift in Sources */,
 				0E60B5DA2977325000FBE7D3 /* ContentView.swift in Sources */,
 				0E60B5D82977325000FBE7D3 /* CalculatorSwiftUIApp.swift in Sources */,
 			);
